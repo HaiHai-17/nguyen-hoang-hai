@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguyễn hoàng hải" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn hoàng hải" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nguyễn hoàng hải" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nguyễn hoàng hải" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguyễn-hoàng-hải-a8893a2a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn-hoàng-hải-a8893a2a9/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@nhh.1701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nhh.1701" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
